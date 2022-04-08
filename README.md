@@ -1,4 +1,4 @@
-# DS011-INTRODUCAO-A-ARQUITETURA-DE-COMPUTADORES
+# DS011 - Introdução à Arquitetura de Computadores
 Disciplina do primeiro período do curso
 
 # Conteúdos:
